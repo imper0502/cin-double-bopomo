@@ -1,7 +1,13 @@
 #CNS雙碼注音輸入法 1.2
 #網址: http://www.cns11643.gov.tw/
 #作者: 吳昱成 <github/imper0502>, 2020
-#授權方式
+#格式轉換(無附加限制): 吳昱成 <github/imper0502>, 2020
+#授權方式: MIT Licence
+
+#正體拼音輸入法 94.2
+#網址: http://www.cns11643.gov.tw/web/download.jsp
+#格式轉換(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007
+#授權方式: Public Domain
 %ename DoubleBopomo:en;雙碼注音:zh_CN;雙碼注音:zh;
 %cname 雙碼注音
 #sname 雙注
